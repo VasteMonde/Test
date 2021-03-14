@@ -1,21 +1,21 @@
-
+<style>
+.table {
+width: 100;
+}
+</style>
+    
 ### Parameters
 
+<div class="foo">
 
-
-
-## CSStackElement.Class_Terminate() sub (Private)
-
-
-| Private Sub Class_Terminate()  |
-| :-:|
-
-
-### Parameters
-
-<div>
-aaaa
+| Name | Required/Optional | Data type | Description |
+|-|-|-|-|
+|@`pModule`|Required|String|aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa |
+|@`pSubName`|Required|String||
+|@`pLevel`|Required|Long||
+|@`pParameters`|Required|Variant||
 </div>
+
 
 
 ## CSStackElement.Create(String, String, Long, Variant) function (Public)
@@ -25,17 +25,6 @@ aaaa
 | :-:|
 
 
-### Parameters
-
-| Name | Required/Optional | Data type | Description |
-|-|-|-|-|
-|@`pModule`|Required|String|jkl sqjdk lsjdlkqj\dlkjqs dlkj qsdlk qsjlkqs kljdjkl djlsk jlk dqsjlk \ 
-dqsjlk qsdlkj qskjld lkqj dlkqjs dlkj qsdlkj qsdlkqj 
-sdlkj qsdlkj qslkdj qskldj kljd lkjs dlkqj sdlkj 
-qsdlkqj sdlkj |
-|@`pSubName`|Required|String||
-|@`pLevel`|Required|Long||
-|@`pParameters`|Required|Variant||
 
 
 ### Returns
