@@ -1,20 +1,18 @@
-<style>
-.table {
-width: 100;
-}
-</style>
-    
+
 ### Parameters
 
-<div class="foo">
 
-| Name | Required/Optional | Data type | Description |
-|-|-|-|-|
-|@`pModule`|Required|String|aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa aaaa |
-|@`pSubName`|Required|String||
-|@`pLevel`|Required|Long||
-|@`pParameters`|Required|Variant||
-</div>
+
+
+## CSStackElement.Class_Terminate() sub (Private)
+
+
+| Private Sub Class_Terminate()  |
+| :-:|
+
+
+### Parameters
+
 
 
 
@@ -25,6 +23,14 @@ width: 100;
 | :-:|
 
 
+### Parameters
+
+| Name | Required/Optional | Data type | Description |
+|-|-|-|-|
+|@`pModule`|Required|String||
+|@`pSubName`|Required|String||
+|@`pLevel`|Required|Long||
+|@`pParameters`|Required|Variant||
 
 
 ### Returns
